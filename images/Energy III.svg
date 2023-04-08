@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Energy III</title>
+    <defs>
+        <linearGradient x1="65.0390187%" y1="51.8834459%" x2="37.8260031%" y2="99.9276118%" id="linearGradient-1">
+            <stop stop-color="#220620" offset="0%"></stop>
+            <stop stop-color="#560F52" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Energy-III" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill-opacity="0.4" fill="#000000" x="106" y="652" width="688" height="433" rx="15"></rect>
+        <text id="Allows-three-lizards" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="32" font-style="condensed" font-weight="normal" letter-spacing="0.832" fill="#FFFFFF">
+            <tspan x="147" y="839">Allows three lizards to attack using all its waves. </tspan>
+            <tspan x="147" y="883">Discard after use.</tspan>
+        </text>
+        <text id="ENERGY-III" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" letter-spacing="-4" fill="#FFFFFF">
+            <tspan x="148" y="775">ENERGY III</tspan>
+        </text>
+        <text id="III" font-family="AvenirNextCondensed-Heavy, Avenir Next Condensed" font-size="55" font-style="condensed" font-weight="600" letter-spacing="1.43" fill="#FFFFFF">
+            <tspan x="107" y="114">III</tspan>
+        </text>
+        <text id="DISCARD" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="566.672" y="106">DISCARD</tspan>
+        </text>
+        <path d="M569.22824,203.519737 L489.605123,203.519737 C490.015064,201.932147 490.267335,200.297401 490.267335,198.59978 L490.267335,193.679824 C490.267335,182.802477 481.422074,174 470.527109,174 L438.441357,174 C427.546392,174 418.701131,182.818196 418.701131,193.679824 L418.701131,198.584062 C418.701131,200.281682 418.937636,201.932147 419.363343,203.504018 L339.740226,203.504018 C328.829494,203.504018 320,212.322214 320,223.183842 L320,555.288738 C320,566.181804 328.829494,575 339.740226,575 L569.244007,575 C580.138972,575 589,566.181804 589,555.288738 L589,223.199561 C588.984233,212.337933 580.138972,203.519737 569.22824,203.519737 Z M551,538 L357,538 L357,241 L551,241 L551,538 Z M374,504.5 C374,495.963077 380.690074,489 388.922801,489 L526.108681,489 C534.309926,489 541,495.963077 541,504.5 C541,513.036923 534.309926,520 526.108681,520 L388.922801,520 C380.705816,519.984103 374,513.036923 374,504.5 Z M374,459.484086 C374,450.938398 380.690074,444 388.922801,444 L526.108681,444 C534.309926,444 541,450.938398 541,459.484086 C541,468.029774 534.309926,475 526.108681,475 L388.922801,475 C380.705816,475 374,468.029774 374,459.484086 Z M374,412.484086 C374,403.954312 380.690074,397 388.922801,397 L526.108681,397 C534.309926,397 541,403.954312 541,412.484086 C541,421.029774 534.309926,428 526.108681,428 L388.922801,428 C380.705816,428 374,421.029774 374,412.484086 Z M374,367.5 C374,358.954312 380.690074,352 388.922801,352 L526.108681,352 C534.309926,352 541,358.954312 541,367.5 C541,376.045688 534.309926,383 526.108681,383 L388.922801,383 C380.705816,383 374,376.045688 374,367.5 Z M374,321.492047 C374,312.950744 380.690074,306 388.922801,306 L526.108681,306 C534.309926,306 541,312.96665 541,321.492047 C541,330.049256 534.309926,337 526.108681,337 L388.922801,337 C380.705816,336.984094 374,330.03335 374,321.492047 Z M374,275.5 C374,266.954312 380.690074,260 388.922801,260 L526.108681,260 C534.309926,260 541,266.954312 541,275.5 C541,284.045688 534.309926,291 526.108681,291 L388.922801,291 C380.705816,291 374,284.045688 374,275.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#F434FF" x="669" y="72" width="131" height="50" rx="5"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="698.5" cy="97.5" r="8.5"></circle>
+        <text id="AMMO" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="716" y="106">AMMO</tspan>
+        </text>
+    </g>
+</svg>

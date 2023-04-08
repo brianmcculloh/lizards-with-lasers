@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Multishot</title>
+    <defs>
+        <linearGradient x1="64.9391821%" y1="52.059706%" x2="38.1559011%" y2="99.3451819%" id="linearGradient-1">
+            <stop stop-color="#190C03" offset="0%"></stop>
+            <stop stop-color="#6E390F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Multishot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <rect id="Rectangle" fill="#FF8429" x="637" y="72" width="163" height="50" rx="5"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="664.5" cy="97.5" r="8.5"></circle>
+        <text id="POWER-UP" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="682" y="106">POWER UP</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill-opacity="0.4" fill="#000000" x="106" y="652" width="688" height="433" rx="15"></rect>
+        <text id="All-of-your-lizards" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="32" font-style="condensed" font-weight="normal" letter-spacing="0.832" fill="#FFFFFF">
+            <tspan x="148" y="832">All of your lizards can attack multiple times, </tspan>
+            <tspan x="148" y="876">limited only by available ammo (maximum total </tspan>
+            <tspan x="148" y="920">attacks per round is 3).</tspan>
+        </text>
+        <text id="MULTISHOT" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" letter-spacing="-4" fill="#FFFFFF">
+            <tspan x="148" y="775">MULTISHOT</tspan>
+        </text>
+        <g id="Group" transform="translate(296.000000, 181.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M171.925855,174.407055 C171.088316,160.212834 185.326477,156.873017 187.839094,154.368155 L187.839094,105.105859 L213.802799,105.105859 C221.340649,105.105859 225.528343,96.7563174 221.340649,90.0766841 L161.03785,4.07640516 C156.850155,-1.76827399 149.312306,-0.933319828 145.96215,4.07640516 L85.6593515,90.0766841 C81.4716571,95.9213633 85.6593515,105.105859 93.1972013,105.105859 L119.160906,105.105859 L119.160906,195.280909 C121.673523,197.785771 135.911684,201.125588 135.074145,215.319809 C134.236606,229.51403 120.835984,232.018892 119.160906,233.6888 C120.835984,261.242288 124.18614,310.504584 122.511062,394 L185.326477,394 C186.164016,221.164488 182.81386,368.116421 188.676633,191.941092 C186.164016,191.106138 171.925855,187.766321 171.925855,174.407055 Z" id="Path"></path>
+            <path d="M306.783214,222.429629 L289.189534,118.650477 C288.35174,111.955048 279.973797,109.444262 274.947031,111.955048 L183.627454,164.681553 C176.925099,168.866196 177.762894,178.072411 184.465248,181.420125 L209.599077,193.137126 C200.383339,224.940415 192.005396,237.494344 192.005396,260.928346 L192.005396,394 L260.704528,394 L260.704528,276.82999 C260.704528,250.885203 269.082471,234.14663 272.433648,222.429629 L293.378506,232.472772 C300.08086,235.820487 308.458803,229.961987 306.783214,222.429629 Z" id="Path"></path>
+            <path d="M97.4009234,236.264064 L122.534752,224.579921 C129.237106,221.241594 130.074901,212.061195 123.372546,207.888287 L32.0529686,155.309642 C26.1884086,151.971315 19.4860543,155.309642 17.8104657,161.986295 L0.216785559,264.639841 C-1.45880302,272.151076 6.91913989,277.993148 13.6214942,274.654821 L34.5663515,264.639841 C37.9175287,275.489403 46.2954716,292.181036 46.2954716,318.887649 L46.2954716,394 L114.994604,394 L114.994604,303.865179 C114.994604,280.496893 107.454455,269.647331 97.4009234,236.264064 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

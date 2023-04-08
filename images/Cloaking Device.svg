@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Cloaking Device</title>
+    <defs>
+        <linearGradient x1="64.9391821%" y1="52.059706%" x2="38.1559011%" y2="99.3451819%" id="linearGradient-1">
+            <stop stop-color="#190C03" offset="0%"></stop>
+            <stop stop-color="#6E390F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Cloaking-Device" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <text id="DISCARD" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="534.672" y="106">DISCARD</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF8429" x="637" y="72" width="163" height="50" rx="5"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="664.5" cy="97.5" r="8.5"></circle>
+        <text id="POWER-UP" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="682" y="106">POWER UP</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill-opacity="0.4" fill="#000000" x="106" y="652" width="688" height="433" rx="15"></rect>
+        <text id="Place-on-top-of-a-li" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="32" font-style="condensed" font-weight="normal" letter-spacing="0.832" fill="#FFFFFF">
+            <tspan x="148" y="832">Place on top of a lizard to hide it for one round. </tspan>
+            <tspan x="148" y="876">Lizard cannot be attacked during battle phase, but </tspan>
+            <tspan x="148" y="920">can attack other lizards. Discard after use.</tspan>
+        </text>
+        <text id="CLOAKING-DEVICE" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" letter-spacing="-4" fill="#FFFFFF">
+            <tspan x="148" y="775">CLOAKING DEVICE</tspan>
+        </text>
+        <g id="Group" transform="translate(255.000000, 216.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M388.540496,165.016092 C378.292562,151.436782 353.287603,123.043678 315.575207,100 L288.930579,126.747126 C315.165289,141.149425 334.841322,159.255172 347.54876,172.834483 C328.282645,193.409195 293.029752,224.271264 243.019835,237.027586 C262.695868,222.625287 275.403306,199.170115 275.403306,172.834483 C275.403306,162.958621 273.763636,153.494253 270.484298,144.852874 L143,272.827586 C159.396694,276.942529 177.433058,279 196.289256,279 C303.687603,279 369.27438,204.931034 388.540496,180.241379 C391.819835,176.126437 391.819835,169.542529 388.540496,165.016092 Z" id="Path"></path>
+            <path d="M349.558149,5.23515078 C342.58135,-1.74505026 331.090152,-1.74505026 323.702953,5.23515078 L254.345363,74.6265611 C236.287765,69.6993603 216.588568,66.8251599 195.247771,66.8251599 C87.7229872,66.8251599 22.0589968,140.733171 2.7701996,165.369175 C-0.923399865,169.885775 -0.923399865,176.455376 2.7701996,180.971977 C13.440598,194.932379 39.7061942,225.316783 80.3357883,248.310387 L22.8797967,305.794395 C15.9029977,312.774596 15.9029977,324.271398 22.8797967,331.662199 C26.5733961,335.3576 31.0877955,337 35.6021948,337 C40.1165941,337 45.0413934,335.3576 48.3245929,331.662199 L348.737349,31.1029546 C356.945348,23.7121535 356.945348,12.2153518 349.558149,5.23515078 Z M44.6309935,172.759976 C63.9197907,152.229973 99.2141855,121.434968 149.282978,108.706366 C129.583781,123.077368 116.861383,146.481572 116.861383,172.759976 C116.861383,184.256777 119.323783,195.342979 123.838182,205.607981 L108.242984,221.210783 C79.1045884,206.429181 57.7637916,187.130978 44.6309935,172.759976 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

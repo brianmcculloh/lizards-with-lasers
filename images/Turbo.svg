@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Turbo</title>
+    <defs>
+        <linearGradient x1="64.9391821%" y1="52.059706%" x2="38.1559011%" y2="99.3451819%" id="linearGradient-1">
+            <stop stop-color="#161903" offset="0%"></stop>
+            <stop stop-color="#4B5605" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Turbo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <rect id="Rectangle" fill="#A0B51B" x="675" y="72" width="125" height="50" rx="5"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="703.5" cy="96.5" r="8.5"></circle>
+        <text id="EVENT" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="721" y="105">EVENT</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill-opacity="0.4" fill="#000000" x="106" y="652" width="688" height="433" rx="15"></rect>
+        <text id="Morale-is-in-the-air" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="32" font-style="condensed" font-weight="normal" letter-spacing="0.832" fill="#FFFFFF">
+            <tspan x="148" y="832">Morale is in the air! All attached upgrade slots for </tspan>
+            <tspan x="148" y="876">all lizards become level III during this battle phase.</tspan>
+        </text>
+        <text id="TURBO" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" letter-spacing="-4" fill="#FFFFFF">
+            <tspan x="148" y="775">TURBO</tspan>
+        </text>
+        <g id="Group-2" transform="translate(450.000000, 391.000000) rotate(-90.000000) translate(-450.000000, -391.000000) translate(245.000000, 265.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M164.689442,104.077172 L93.395757,0.5 L0.5,0.5 L86.8911711,125.991376 L0.5,251.5 L93.395757,251.5 L164.689442,147.914204 C173.770186,134.736359 173.770186,117.255016 164.689442,104.077172 Z" id="Path"></path>
+            <path d="M283.699721,104.077172 L212.407542,0.5 L119.5,0.5 L205.87585,125.991376 L119.5,251.5 L212.416103,251.5 L283.708281,147.90558 C292.765333,134.736359 292.765333,117.255016 283.699721,104.077172 Z" id="Path"></path>
+            <path d="M402.694924,104.077172 L331.408545,0.5 L238.5,0.5 L324.885944,125.991376 L238.5,251.5 L331.408545,251.5 L402.694924,147.914204 C411.768359,134.736359 411.768359,117.255016 402.694924,104.077172 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

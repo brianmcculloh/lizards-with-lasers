@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Resilience</title>
+    <defs>
+        <linearGradient x1="64.9391821%" y1="52.059706%" x2="38.1559011%" y2="99.3451819%" id="linearGradient-1">
+            <stop stop-color="#190C03" offset="0%"></stop>
+            <stop stop-color="#6E390F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Resilience" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <text id="DISCARD" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="534.672" y="106">DISCARD</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF8429" x="637" y="72" width="163" height="50" rx="5"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="664.5" cy="97.5" r="8.5"></circle>
+        <text id="POWER-UP" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="682" y="106">POWER UP</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill-opacity="0.4" fill="#000000" x="106" y="652" width="688" height="433" rx="15"></rect>
+        <text id="Un-stun-a-lizard-tha" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="32" font-style="condensed" font-weight="normal" letter-spacing="0.832" fill="#FFFFFF">
+            <tspan x="148" y="832">Un-stun a lizard that has been stunned during this </tspan>
+            <tspan x="148" y="876">battle phase. Lizard can attack if it has not yet done </tspan>
+            <tspan x="148" y="920">so this round. Discard after use.</tspan>
+        </text>
+        <text id="RESILIENCE" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" letter-spacing="-4" fill="#FFFFFF">
+            <tspan x="148" y="775">RESILIENCE</tspan>
+        </text>
+        <g id="Group" transform="translate(279.000000, 232.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Path">
+                <path d="M93.8111654,170.5 L118.153013,144.299833 C121.226118,140.975083 125.71428,139.312708 130.216736,139.81 C134.719191,140.307292 138.735668,142.893208 141.022629,146.8005 L171.424925,198.845625 L216.292253,120.657167 C218.907966,116.082083 223.724879,113.325667 229.142119,113.496167 C234.430718,113.652458 239.190456,116.70725 241.534592,121.410208 L266.190897,171.210417 L323.593634,171.210417 C345.019605,135.561708 349.364832,91.8000417 333.141698,55.6114167 C317.533185,20.7867917 285.487136,0 247.409225,0 C216.663885,0 189.677738,14.8619167 171.52498,40.8489583 C153.386515,14.8619167 126.400368,0 95.6550282,0 C57.5771173,0 25.5310677,20.7867917 9.9225547,55.6114167 C-6.18623117,91.5585 -1.99823271,134.979167 19.0704012,170.5 L93.8111654,170.5 Z"></path>
+                <path d="M257.293187,199.624242 C251.84736,199.624242 246.873218,196.555242 244.471908,191.695992 L227.791382,157.993825 L183.938893,234.377825 C181.408942,238.782408 176.692084,241.524617 171.589301,241.538825 L171.532126,241.538825 C166.443637,241.538825 161.726779,238.85345 159.16824,234.463075 L126.007297,177.714992 L110.556012,194.338742 C107.854539,197.25145 104.052465,198.913825 100.064576,198.913825 L40.6464546,198.913825 C54.7827361,214.827158 82.4835587,246.639617 107.41144,275.2552 C142.887932,315.976283 158.725141,334.091908 161.340854,336.748867 C164.028034,339.476867 167.687172,340.997158 171.532126,340.997158 C175.377081,340.997158 179.036219,339.476867 181.723399,336.748867 C184.339112,334.091908 200.176321,315.976283 235.652813,275.2552 C260.251944,247.009033 287.48108,215.7507 301.788884,199.624242 L257.293187,199.624242 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

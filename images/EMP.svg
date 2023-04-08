@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E.M.P.</title>
+    <defs>
+        <linearGradient x1="64.9391821%" y1="52.059706%" x2="38.1559011%" y2="99.3451819%" id="linearGradient-1">
+            <stop stop-color="#190C03" offset="0%"></stop>
+            <stop stop-color="#6E390F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="E.M.P." stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <g id="Group" transform="translate(307.000000, 184.000000)" fill="#FFFFFF">
+            <path d="M173.982759,3.072 L166.310345,19.968 L200.068966,18.432 L112.603448,142.848 L138.689655,144.384 L108,190.464 C146.362069,192 184.724138,193.536 223.086207,196.608 C197,241.152 178.586207,271.872 157.103448,308.736 L177.051724,308.736 L121.810345,384 L212.344828,299.52 L192.396552,290.304 L286,178.176 L170.913793,172.032 L200.068966,125.952 L173.982759,124.416 L262.982759,-1.70530257e-13 L173.982759,3.072 Z" id="Path"></path>
+            <polygon id="Path" points="90.2878788 31.072 18.3636364 173.92 39.7878788 173.92 0 241.504 130.075758 239.968 74.9848485 336.736 93.3484848 336.736 38.2575758 412 128.545455 327.52 110.181818 318.304 202 204.64 87.2272727 198.496 117.833333 152.416 91.8181818 152.416 180.575758 28"></polygon>
+        </g>
+        <text id="DISCARD" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="534.672" y="106">DISCARD</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF8429" x="637" y="72" width="163" height="50" rx="5"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="664.5" cy="97.5" r="8.5"></circle>
+        <text id="POWER-UP" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="682" y="106">POWER UP</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill-opacity="0.4" fill="#000000" x="106" y="652" width="688" height="433" rx="15"></rect>
+        <text id="An-electromagnetic-p" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="32" font-style="condensed" font-weight="normal" letter-spacing="0.832" fill="#FFFFFF">
+            <tspan x="148" y="832">An electromagnetic pulse weapon is deployed, </tspan>
+            <tspan x="148" y="876">completely skipping the battle phase this round. </tspan>
+            <tspan x="148" y="920">Discard after use.</tspan>
+        </text>
+        <text font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" letter-spacing="-4" fill="#FFFFFF">
+            <tspan x="148" y="775">E.M.P.</tspan>
+        </text>
+    </g>
+</svg>

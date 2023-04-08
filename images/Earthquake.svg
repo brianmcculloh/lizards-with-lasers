@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Earthquake</title>
+    <defs>
+        <linearGradient x1="64.9391821%" y1="52.059706%" x2="38.1559011%" y2="99.3451819%" id="linearGradient-1">
+            <stop stop-color="#161903" offset="0%"></stop>
+            <stop stop-color="#4B5605" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Earthquake" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <rect id="Rectangle" fill="#A0B51B" x="675" y="72" width="125" height="50" rx="5"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="703.5" cy="96.5" r="8.5"></circle>
+        <text id="EVENT" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="721" y="105">EVENT</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill-opacity="0.4" fill="#000000" x="106" y="652" width="688" height="433" rx="15"></rect>
+        <text id="The-ground-opens-up" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="32" font-style="condensed" font-weight="normal" letter-spacing="0.832" fill="#FFFFFF">
+            <tspan x="148" y="832">The ground opens up and swallows all current </tspan>
+            <tspan x="148" y="876">build phase cards. Discard them and draw a new </tspan>
+            <tspan x="148" y="920">set of cards.</tspan>
+        </text>
+        <text id="EARTHQUAKE" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" letter-spacing="-4" fill="#FFFFFF">
+            <tspan x="148" y="775">EARTHQUAKE</tspan>
+        </text>
+        <g id="noun_Earthquake_8681" transform="translate(227.000000, 164.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group" transform="translate(0.000000, 297.000000)">
+                <polygon id="Path" points="249.72102 0.610580163 242.12649 27.9142595 266.96181 27.9142595 254.53968 95.7207636 291.78819 95.7207636 300.95616 118.333287 446.91507 138.864305 447 138.864305 447 27.9142595"></polygon>
+                <polygon id="Path" points="211.08681 58.7374151 186.25149 58.7374151 211.08681 3.26017323 0 3.26017323 0 114.219095 193.89072 114.219095"></polygon>
+            </g>
+            <path d="M345.7985,27.7302529 L271.36704,20.4625219 L271.36704,20.453577 C272.372203,10.2161393 264.855913,1.09681399 254.579911,0.0905127709 C244.308397,-0.915788447 235.154229,6.58450997 234.149066,16.8219477 L232.538112,16.6654119 L153.516105,8.94596349 L150.473691,39.8595369 L156.679678,40.4633176 L133,281.349467 L192.223875,281.349467 L242.082678,181.962686 L229.616855,256.505008 L260.776924,256.505008 L254.808766,278.683887 L320.211704,288 L342.760573,58.6348814 L348.962073,59.2431346 L352,28.3340336 L345.7985,27.7302529 Z M214.700947,214.651822 L171.281473,210.407467 L176.747049,154.770191 L220.171011,159.019019 L214.700947,214.651822 Z M223.819216,121.920047 L180.404229,117.680164 L185.869806,62.0428882 L229.28928,66.2827707 L223.819216,121.920047 Z M295.333907,222.523334 L251.914433,218.278979 L257.388985,162.641703 L300.808458,166.886058 L295.333907,222.523334 Z M304.452176,129.791559 L261.032702,125.551676 L266.502766,69.9144 L309.917753,74.1542824 L304.452176,129.791559 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Brown Out</title>
+    <defs>
+        <linearGradient x1="64.9391821%" y1="52.059706%" x2="38.1559011%" y2="99.3451819%" id="linearGradient-1">
+            <stop stop-color="#190C03" offset="0%"></stop>
+            <stop stop-color="#6E390F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Brown-Out" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <text id="TRAP" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="570" y="106">TRAP</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF8429" x="637" y="72" width="163" height="50" rx="5"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="664.5" cy="97.5" r="8.5"></circle>
+        <text id="POWER-UP" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="682" y="106">POWER UP</tspan>
+        </text>
+        <g id="noun_Power-Lines_4928" transform="translate(283.000000, 173.000000)" fill="#FFFFFF">
+            <g id="Group">
+                <path d="M69.1611941,56.7596738 C69.1611941,77.8898787 49.4174312,93.6384165 32.465413,102.627894 C22.4114297,107.957499 11.4148795,112.107857 -4.72976045e-15,115.231148 L-4.72976045e-15,126.416902 C13.1878426,123.01133 25.9213359,118.332404 37.5263051,112.17993 C51.6387153,104.696072 66.0932187,93.6864934 73.9600846,79.4054079 C78.7309217,90.4930691 86.6256279,100.271339 95.6369937,108.596116 C108.868865,120.81695 125.274706,130.799483 142.104584,138.913944 L142.104584,126.857266 C127.874103,119.641688 114.147943,110.978584 102.967289,100.651756 C90.569903,89.2017281 79.9675908,74.3019728 79.9675908,56.7596738 L69.1611515,56.7596738 L69.1611941,56.7596738 Z" id="Path"></path>
+                <path d="M-0.000809436002,172.723568 C23.652146,171.207975 47.2461404,168.59322 70.5559802,164.739187 C98.184374,160.172397 126.185108,153.779666 152.910981,144.724147 L152.910981,86.4908413 L112.386781,56.7596952 L225.854371,56.7596952 L185.330171,86.4908413 L185.330171,132.030664 C203.29686,123.896106 221.279567,113.57727 235.273863,100.651777 C247.671249,89.2017495 258.273561,74.3019941 258.273561,56.7596952 L269.080001,56.7596952 C269.080001,77.8899 288.821761,93.6384378 305.775782,102.627915 C314.873203,107.450987 324.745085,111.309048 334.999191,114.314193 L334.999191,125.552009 C322.96603,122.232511 311.36515,117.827895 300.714677,112.179951 C286.600264,104.696094 272.147763,93.6865147 264.280897,79.4054292 C259.51006,90.4930904 251.615354,100.271361 242.603988,108.596137 C226.546439,123.425716 205.818104,134.959772 185.329788,143.855269 L185.329788,410.831 L152.910385,410.831 L152.910385,156.121687 C126.678694,164.754765 99.3385019,170.939269 72.3163331,175.405962 C48.4260425,179.356107 24.2417988,182.024927 -0.000809436002,183.556524 L-0.000809436002,172.723142 L-0.000809436002,172.723568 Z" id="Path"></path>
+                <path d="M335,172.507265 C312.434628,170.965645 289.929112,168.41696 267.686024,164.739101 C243.759735,160.78495 219.553338,155.459352 196.13742,148.221739 L196.13742,159.523615 C219.022945,166.412862 242.593082,171.550245 265.922945,175.406303 C288.750531,179.178269 311.844379,181.785011 335,183.344653 L335,172.507265 Z" id="Path"></path>
+                <polygon id="Path" points="44.8468017 0 66.459595 0 66.459595 21.6226517 82.6691899 21.6226517 82.6691899 0 104.281983 0 104.281983 21.6226517 233.958956 21.6226517 233.958956 0 255.573027 0 255.573027 21.6226517 271.780918 21.6226517 271.780918 0 293.39499 0 293.39499 21.6226517 304.20096 21.6226517 304.20096 45.948348 34.040192 45.7360938 34.040192 21.6226517 44.8468017 21.6226517"></polygon>
+            </g>
+        </g>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill-opacity="0.4" fill="#000000" x="106" y="652" width="688" height="433" rx="15"></rect>
+        <text id="Deactivate-one-power" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="32" font-style="condensed" font-weight="normal" letter-spacing="0.832" fill="#FFFFFF">
+            <tspan x="148" y="832">Deactivate one powerup for any other player of </tspan>
+            <tspan x="148" y="876">your choosing. Traps must be activated before </tspan>
+            <tspan x="148" y="920">build phase begins. Can change each round.</tspan>
+        </text>
+        <text id="BROWN-OUT" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" letter-spacing="-4" fill="#FFFFFF">
+            <tspan x="148" y="775">BROWN OUT</tspan>
+        </text>
+    </g>
+</svg>

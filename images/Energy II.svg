@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Energy II</title>
+    <defs>
+        <linearGradient x1="65.0390187%" y1="51.8834459%" x2="37.8260031%" y2="99.9276118%" id="linearGradient-1">
+            <stop stop-color="#220620" offset="0%"></stop>
+            <stop stop-color="#560F52" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Energy-II" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <text id="DISCARD" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="566.672" y="106">DISCARD</tspan>
+        </text>
+        <rect id="Rectangle" fill="#F434FF" x="669" y="72" width="131" height="50" rx="5"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="698.5" cy="97.5" r="8.5"></circle>
+        <text id="AMMO" font-family="AvenirNextCondensed-DemiBold, Avenir Next Condensed" font-size="23" font-style="condensed" font-weight="500" letter-spacing="0.598" fill="#FFFFFF">
+            <tspan x="716" y="106">AMMO</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill-opacity="0.4" fill="#000000" x="106" y="652" width="688" height="433" rx="15"></rect>
+        <text id="Allows-two-lizards-t" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="32" font-style="condensed" font-weight="normal" letter-spacing="0.832" fill="#FFFFFF">
+            <tspan x="147" y="839">Allows two lizards to attack using all its waves. </tspan>
+            <tspan x="147" y="883">Discard after use.</tspan>
+        </text>
+        <text id="ENERGY-II" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" letter-spacing="-4" fill="#FFFFFF">
+            <tspan x="148" y="775">ENERGY II</tspan>
+        </text>
+        <text id="II" font-family="AvenirNextCondensed-Heavy, Avenir Next Condensed" font-size="55" font-style="condensed" font-weight="600" letter-spacing="1.43" fill="#FFFFFF">
+            <tspan x="107" y="114">II</tspan>
+        </text>
+        <path d="M569.257459,203.519737 L489.640776,203.519737 C490.034996,201.932147 490.287297,200.297401 490.287297,198.59978 L490.287297,193.679824 C490.287297,182.818196 481.440999,174 470.544756,174 L438.455244,174 C427.543232,174 418.712703,182.818196 418.712703,193.679824 L418.712703,198.584062 C418.712703,200.281682 418.949235,201.932147 419.359224,203.504018 L339.742541,203.504018 C328.846298,203.504018 320,212.322214 320,223.183842 L320,555.304457 C320,566.181804 328.846298,575 339.742541,575 L569.257459,575 C580.153702,575 589,566.181804 589,555.304457 L589,223.199561 C589,212.337933 580.169471,203.519737 569.257459,203.519737 Z M551,539 L356,539 L356,242 L551,242 L551,539 Z M387.90706,429 L525.09294,429 C533.294184,429 540,422.273474 540,414.007696 C540,405.741919 533.294184,399 525.09294,399 L387.90706,399 C379.690074,399 373,405.741919 373,414.007696 C373,422.273474 379.690074,429 387.90706,429 Z M387.90706,474 L525.09294,474 C533.294184,474 540,467.273474 540,459.007696 C540,450.741919 533.294184,444 525.09294,444 L387.90706,444 C379.690074,444 373,450.741919 373,459.007696 C373,467.273474 379.690074,474 387.90706,474 Z M387.90706,382 L525.09294,382 C533.294184,382 540,375.270021 540,367 C540,358.729979 533.309926,352 525.09294,352 L387.90706,352 C379.690074,352 373,358.729979 373,367 C373,375.270021 379.690074,382 387.90706,382 Z M387.90706,520 L525.09294,520 C533.294184,520 540,513.273474 540,505.007696 C540,496.741919 533.294184,490 525.09294,490 L387.90706,490 C379.690074,490 373,496.741919 373,505.007696 C373,513.273474 379.690074,520 387.90706,520 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

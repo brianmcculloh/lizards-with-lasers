@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1200px" viewBox="0 0 900 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Komodo Dragon</title>
+    <defs>
+        <linearGradient x1="65.0390187%" y1="51.8834459%" x2="37.7850012%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00121F" offset="0%"></stop>
+            <stop stop-color="#00416D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="132" y="277" width="172" height="172" rx="8"></rect>
+        <filter x="-7.6%" y="-7.6%" width="115.1%" height="115.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="12" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="7" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296383304 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="148" y="666" width="172" height="172" rx="8"></rect>
+        <filter x="-7.6%" y="-7.6%" width="115.1%" height="115.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="12" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="7" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="237" y="96" width="172" height="172" rx="8"></rect>
+        <filter x="-7.6%" y="-7.6%" width="115.1%" height="115.1%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="12" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="7" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296383304 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-8" x="531" y="133" width="172" height="172" rx="8"></rect>
+        <filter x="-7.6%" y="-7.6%" width="115.1%" height="115.1%" filterUnits="objectBoundingBox" id="filter-9">
+            <feMorphology radius="12" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="7" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296383304 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-10" x="584" y="490" width="172" height="172" rx="8"></rect>
+        <filter x="-7.6%" y="-7.6%" width="115.1%" height="115.1%" filterUnits="objectBoundingBox" id="filter-11">
+            <feMorphology radius="12" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="7" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.246913243 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="288" y="849" width="172" height="172" rx="8"></rect>
+        <filter x="-7.6%" y="-7.6%" width="115.1%" height="115.1%" filterUnits="objectBoundingBox" id="filter-13">
+            <feMorphology radius="12" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="7" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Komodo-Dragon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="900" height="1200"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="42" y="41" width="816" height="1110"></rect>
+        <text id="KOMODO-DRAGON" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="80" font-style="condensed" font-weight="normal" line-spacing="76" letter-spacing="2.08" fill="#FFFFFF">
+            <tspan x="531" y="1051">KOMODO</tspan>
+            <tspan x="553.08" y="1127">DRAGON</tspan>
+        </text>
+        <g id="Group-2" transform="translate(431.763456, 516.000000) rotate(76.000000) translate(-431.763456, -516.000000) translate(122.763456, 377.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M604.775763,175.21274 C580.192255,127.887519 538.784839,77.5531802 455.420653,45.2735496 C438.840074,38.4691968 421.845092,32.7130911 404.536912,28.0395096 C375.695925,19.5592677 345.000875,6.49695954 271.38769,17.23404 C243.088552,17.2104406 214.847014,14.6930252 186.993469,9.71124479 C158.397618,4.43139903 129.460569,1.18611123 100.401839,0 C100.401839,0 74.4449513,3.21428525 66.0673313,9.71124479 C57.6897113,16.2082043 46.5653307,20.5167143 37.9130347,25.8510601 C29.2607386,31.1854058 8.66003378,35.5623049 4.33388576,40.9650396 C0.00773773917,46.3677744 -5.62312159,58.3358578 12.7801747,64.7644283 C31.1834711,71.1929988 57.1403592,66.9528778 62.5652115,67.9787135 C67.9900637,69.0045492 82.0672121,91.7097131 144.968031,86.3069783 C148.857135,90.3794281 152.140781,94.9854257 154.719031,99.9847879 C154.719031,99.9847879 155.817735,73.0395031 174.221032,67.6367683 C185.3286,64.450989 197.204214,65.2249568 207.800181,69.8252178 C207.800181,69.8252178 166.598771,66.6109326 164.5387,91.3677679 L161.311257,128.024297 C162.519709,136.636491 162.147433,145.395673 160.212552,153.875358 C158.41209,165.762207 147.295604,173.958538 135.354369,172.203622 C122.375925,171.109398 125.603368,166.800888 112.624924,174.392072 C107.466554,176.509023 104.371584,181.805064 105.071332,187.317602 C105.071332,187.317602 110.496185,179.794807 114.822333,180.820642 C119.148481,181.846478 123.474629,190.531887 141.877925,189.437662 C160.281221,188.343438 175.457074,193.746172 183.079335,176.512132 C190.701596,159.278092 210.134927,120.433113 210.134927,105.387523 L211.233631,89.2477074 C215.131096,99.9440895 216.241515,111.450066 214.461075,122.689952 C228.015739,123.281315 241.453148,125.462017 254.495112,129.186911 C269.670964,134.589646 311.83374,153.943747 346.511593,149.703626 C346.316271,135.651032 347.050328,121.60088 348.709002,107.644361 C352.166612,100.968613 356.534083,94.8008353 361.687446,89.3160964 C357.164199,98.7630579 354.595378,109.019707 354.133854,119.475667 C354.133854,134.589646 355.232558,169.057726 361.687446,179.863196 C370.077661,183.566652 377.766122,188.679106 384.41689,194.977175 C384.41689,194.977175 354.133854,184.171706 350.837741,184.171706 C347.541629,184.171706 337.859297,188.480216 328.108297,185.265931 C318.357297,182.051645 312.932444,169.126115 302.151409,183.077481 L297.825261,194.908786 C297.825261,194.908786 306.477557,185.197541 311.559064,186.291766 C316.640571,187.385991 319.112656,199.217296 331.061065,199.217296 C343.009473,199.217296 356.949284,200.653466 356.949284,200.653466 C356.949284,200.653466 347.198283,210.364711 355.85058,217.887506 C356.763912,211.018645 361.994677,205.506012 368.829024,204.209697 C368.829024,204.209697 410.030433,212.826717 407.764356,188.069881 C405.498278,163.313046 405.566947,133.358643 405.566947,133.358643 C405.566947,133.358643 434.819948,106.413358 444.502279,94.5820531 C437.873526,110.518469 427.89951,124.858871 415.249279,136.641318 L415.249279,148.472623 L435.849983,140.334326 C453.371103,133.208082 473.189685,134.364691 489.755161,143.480222 C495.912016,146.769385 501.518214,150.991498 506.373063,155.995418 C515.025359,165.706663 535.626064,187.249213 561.308276,214.194498 C568.558371,211.181989 576.887695,212.41971 582.939016,217.408783 C582.939016,217.408783 556.982128,217.408783 550.458571,227.120028 C543.935015,236.831273 447.455047,255.159537 421.635497,254.065313 C395.815947,252.971088 392.657172,241.686895 382.906172,241.686895 C373.155172,241.686895 403.506877,275.881419 444.708286,275.881419 C485.909696,275.881419 606.904503,295.440687 617.891545,215.699057 C619.058918,206.12459 610.54396,186.360155 604.775763,175.21274 Z M66.4793454,37.6823653 C66.4793454,37.6823653 64.625282,32.4164087 72.8655639,29.6124577 C81.1058458,26.8085067 84.6079657,30.4331263 84.6079657,30.4331263 C84.6079657,30.4331263 82.2732191,43.9057687 66.4793454,37.6823653 Z" id="Shape"></path>
+            <path d="M430.898305,153.340111 L427.711864,171.950938 L417,175.214777 L417,190.561766 C417,190.561766 447.983051,196.047793 455.440678,190.561766 C463.443841,183.269883 468.316171,173.038991 469,162.089977 C468.361281,158.112129 468.361281,154.054119 469,150.076271 C469,150.076271 454.423729,141.326405 430.898305,153.340111 Z" id="Path"></path>
+            <path d="M215.502994,134.355051 C215.502994,134.355051 217.687425,146.235123 218.711377,150.561392 C219.735329,154.88766 218.711377,160.312664 214.410778,160.312664 C209.993801,159.779037 205.659942,158.694872 201.508982,157.08513 L194,166.836403 C194,166.836403 201.508982,163.608869 205.809581,167.935138 C210.11018,172.261407 239.941317,173.360142 244.51497,170.132608 C249.088623,166.905074 251,140.87879 251,140.87879 C251,140.87879 229.497006,132.157581 215.502994,134.355051 Z" id="Path"></path>
+        </g>
+        <circle id="Oval" fill="#000000" cx="-74.5" cy="1151.5" r="374.5"></circle>
+        <text id="attack-3" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="28" font-style="condensed" font-weight="normal" letter-spacing="0.728" fill="#FFFFFF">
+            <tspan x="80.49" y="1010">attack</tspan>
+            <tspan x="141.754" y="1010" font-family="AvenirNextCondensed-Bold, Avenir Next Condensed" font-weight="bold"> 3</tspan>
+        </text>
+        <text id="SLOTS" font-family="AvenirNextCondensed-Italic, Avenir Next Condensed" font-size="36" font-style="italic" font-weight="normal" line-spacing="27" letter-spacing="0.936" fill="#FFFFFF">
+            <tspan x="79" y="982">SLOTS</tspan>
+        </text>
+        <path d="M82.3843961,919.700449 L78.8680558,916.21739 C78.208742,915.564316 78.4285133,914.258169 79.5273696,914.040478 L98.2079277,909.033581 C99.306784,908.81589 100.185869,909.686655 99.9660978,910.775111 L94.9113586,929.27886 C94.6915873,930.367316 93.3729597,930.585007 92.7136459,929.931934 L89.1973055,926.448875 L83.922795,931.673463 C83.4832525,932.108846 82.6041674,932.108846 81.9448536,931.673463 L77.3296569,927.101949 C76.8901144,926.666566 76.8901144,925.795802 77.3296569,925.142728 L82.6041674,919.91814 L82.3843961,919.700449 Z" id="Path" fill="#FFFFFF" transform="translate(88.500000, 920.500000) rotate(-45.000000) translate(-88.500000, -920.500000) "></path>
+        <text id="defense-1" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="28" font-style="condensed" font-weight="normal" letter-spacing="0.728" fill="#FFFFFF">
+            <tspan x="79.126" y="1048">defense</tspan>
+            <tspan x="162.118" y="1048" font-family="AvenirNextCondensed-Bold, Avenir Next Condensed" font-weight="bold"> 1</tspan>
+        </text>
+        <text id="speed-2" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="28" font-style="condensed" font-weight="normal" letter-spacing="0.728" fill="#FFFFFF">
+            <tspan x="80.15" y="1084">speed</tspan>
+            <tspan x="143.094" y="1084" font-family="AvenirNextCondensed-Bold, Avenir Next Condensed" font-weight="bold"> 2</tspan>
+        </text>
+        <g id="Rectangle">
+            <use fill="#8A1D1F" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <rect stroke="#FF393D" stroke-width="3" stroke-linejoin="square" x="133.5" y="278.5" width="169" height="169" rx="8"></rect>
+        </g>
+        <text id="A" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="72" font-style="condensed" font-weight="normal" letter-spacing="1.872" fill="#FFFFFF">
+            <tspan x="200.86" y="386">A</tspan>
+        </text>
+        <g id="Rectangle">
+            <use fill="#2D7C30" fill-rule="evenodd" xlink:href="#path-4"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+            <rect stroke="#38BB3D" stroke-width="3" stroke-linejoin="square" x="149.5" y="667.5" width="169" height="169" rx="8"></rect>
+        </g>
+        <path d="M280.184763,799.49187 L275.751116,795.100187 C274.919807,794.276747 275.19691,792.629866 276.582425,792.355386 L300.136172,786.042342 C301.521686,785.767861 302.630098,786.865782 302.352995,788.238183 L295.979628,811.568998 C295.702525,812.941399 294.039908,813.215879 293.208599,812.392438 L288.774953,808.000756 L282.124483,814.58828 C281.570277,815.13724 280.461865,815.13724 279.630557,814.58828 L273.811396,808.824196 C273.25719,808.275236 273.25719,807.177315 273.811396,806.353875 L280.461865,799.76635 L280.184763,799.49187 Z" id="Path" fill="#FFFFFF" transform="translate(287.895741, 800.500000) rotate(-45.000000) translate(-287.895741, -800.500000) "></path>
+        <text id="S" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="72" font-style="condensed" font-weight="normal" letter-spacing="1.872" fill="#FFFFFF">
+            <tspan x="217.94" y="775">S</tspan>
+        </text>
+        <path d="M263.184763,411.49187 L258.751116,407.100187 C257.919807,406.276747 258.19691,404.629866 259.582425,404.355386 L283.136172,398.042342 C284.521686,397.767861 285.630098,398.865782 285.352995,400.238183 L278.979628,423.568998 C278.702525,424.941399 277.039908,425.215879 276.208599,424.392438 L271.774953,420.000756 L265.124483,426.58828 C264.570277,427.13724 263.461865,427.13724 262.630557,426.58828 L256.811396,420.824196 C256.25719,420.275236 256.25719,419.177315 256.811396,418.353875 L263.461865,411.76635 L263.184763,411.49187 Z" id="Path" fill="#FFFFFF" transform="translate(270.895741, 412.500000) rotate(-45.000000) translate(-270.895741, -412.500000) "></path>
+        <g id="Rectangle">
+            <use fill="#8A1D1F" fill-rule="evenodd" xlink:href="#path-6"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+            <rect stroke="#FF393D" stroke-width="3" stroke-linejoin="square" x="238.5" y="97.5" width="169" height="169" rx="8"></rect>
+        </g>
+        <path d="M367.184763,230.49187 L362.751116,226.100187 C361.919807,225.276747 362.19691,223.629866 363.582425,223.355386 L387.136172,217.042342 C388.521686,216.767861 389.630098,217.865782 389.352995,219.238183 L382.979628,242.568998 C382.702525,243.941399 381.039908,244.215879 380.208599,243.392438 L375.774953,239.000756 L369.124483,245.58828 C368.570277,246.13724 367.461865,246.13724 366.630557,245.58828 L360.811396,239.824196 C360.25719,239.275236 360.25719,238.177315 360.811396,237.353875 L367.461865,230.76635 L367.184763,230.49187 Z" id="Path" fill="#FFFFFF" transform="translate(374.895741, 231.500000) rotate(-45.000000) translate(-374.895741, -231.500000) "></path>
+        <g id="Rectangle">
+            <use fill="#8A1D1F" fill-rule="evenodd" xlink:href="#path-8"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+            <rect stroke="#FF393D" stroke-width="3" stroke-linejoin="square" x="532.5" y="134.5" width="169" height="169" rx="8"></rect>
+        </g>
+        <path d="M661.184763,267.49187 L656.751116,263.100187 C655.919807,262.276747 656.19691,260.629866 657.582425,260.355386 L681.136172,254.042342 C682.521686,253.767861 683.630098,254.865782 683.352995,256.238183 L676.979628,279.568998 C676.702525,280.941399 675.039908,281.215879 674.208599,280.392438 L669.774953,276.000756 L663.124483,282.58828 C662.570277,283.13724 661.461865,283.13724 660.630557,282.58828 L654.811396,276.824196 C654.25719,276.275236 654.25719,275.177315 654.811396,274.353875 L661.461865,267.76635 L661.184763,267.49187 Z" id="Path" fill="#FFFFFF" transform="translate(668.895741, 268.500000) rotate(-45.000000) translate(-668.895741, -268.500000) "></path>
+        <text id="A" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="72" font-style="condensed" font-weight="normal" letter-spacing="1.872" fill="#FFFFFF">
+            <tspan x="599.86" y="242">A</tspan>
+        </text>
+        <g id="Rectangle">
+            <use fill="#B89E27" fill-rule="evenodd" xlink:href="#path-10"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+            <rect stroke="#FFDA2F" stroke-width="3" stroke-linejoin="square" x="585.5" y="491.5" width="169" height="169" rx="8"></rect>
+        </g>
+        <path d="M715.184763,624.49187 L710.751116,620.100187 C709.919807,619.276747 710.19691,617.629866 711.582425,617.355386 L735.136172,611.042342 C736.521686,610.767861 737.630098,611.865782 737.352995,613.238183 L730.979628,636.568998 C730.702525,637.941399 729.039908,638.215879 728.208599,637.392438 L723.774953,633.000756 L717.124483,639.58828 C716.570277,640.13724 715.461865,640.13724 714.630557,639.58828 L708.811396,633.824196 C708.25719,633.275236 708.25719,632.177315 708.811396,631.353875 L715.461865,624.76635 L715.184763,624.49187 Z" id="Path" fill="#FFFFFF" transform="translate(722.895741, 625.500000) rotate(-45.000000) translate(-722.895741, -625.500000) "></path>
+        <text id="D" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="72" font-style="condensed" font-weight="normal" letter-spacing="1.872" fill="#FFFFFF">
+            <tspan x="650.088" y="599">D</tspan>
+        </text>
+        <g id="Rectangle">
+            <use fill="#2D7C30" fill-rule="evenodd" xlink:href="#path-12"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+            <rect stroke="#38BB3D" stroke-width="3" stroke-linejoin="square" x="289.5" y="850.5" width="169" height="169" rx="8"></rect>
+        </g>
+        <path d="M421.184763,983.49187 L416.751116,979.100187 C415.919807,978.276747 416.19691,976.629866 417.582425,976.355386 L441.136172,970.042342 C442.521686,969.767861 443.630098,970.865782 443.352995,972.238183 L436.979628,995.568998 C436.702525,996.941399 435.039908,997.215879 434.208599,996.392438 L429.774953,992.000756 L423.124483,998.58828 C422.570277,999.13724 421.461865,999.13724 420.630557,998.58828 L414.811396,992.824196 C414.25719,992.275236 414.25719,991.177315 414.811396,990.353875 L421.461865,983.76635 L421.184763,983.49187 Z" id="Path" fill="#FFFFFF" transform="translate(428.895741, 984.500000) rotate(-45.000000) translate(-428.895741, -984.500000) "></path>
+        <text id="S" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="72" font-style="condensed" font-weight="normal" letter-spacing="1.872" fill="#FFFFFF">
+            <tspan x="357.94" y="958">S</tspan>
+        </text>
+        <text id="A" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="72" font-style="condensed" font-weight="normal" letter-spacing="1.872" fill="#FFFFFF">
+            <tspan x="305.255741" y="205">A</tspan>
+        </text>
+    </g>
+</svg>

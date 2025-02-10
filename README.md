@@ -1,0 +1,1 @@
+Lizards with Lasers was originally developed as a way to rapidly play test a physical card game I was building. I quickly realized it would be better as a digital game rather than physical. This game is my first ever attempt at a purely JavaScript based card game.
